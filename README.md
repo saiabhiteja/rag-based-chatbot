@@ -3,10 +3,6 @@
 A lightweight **Retrieval‑Augmented Generation (RAG) chatbot** built with **Streamlit**, **LangChain**, **Pinecone**, and **OpenAI**.  
 Ask questions about any collection of PDFs and get grounded answers with cited sources in real time.
 
-[Live demo](https://rag-chatbot-saketh.streamlit.app/) 
-
-* Built with ❤️ by **Saketh Angirekula**
-
 ---
 
 ## ✨ Features
